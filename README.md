@@ -76,6 +76,14 @@ Esse projeto foi desenvolvido com Typescript(React) Puro, Versão Node 20.
 ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/dc2645dd-7f08-4820-9447-fe64c2c082fd)
 
 
+## Excluindo um carro
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/3fb7563d-3168-4323-93dc-c159c45d54bd)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/748b1b02-7954-4d3c-9bb6-22e735eb2291)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/dacb12c5-b5f9-4c5e-ae1c-b767c3fa8dd0)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/6825786d-8f22-43cc-82fc-93b0d7122f45)
 
 
 
