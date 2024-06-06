@@ -8,16 +8,78 @@ Esse projeto foi desenvolvido com Typescript(React) Puro, Versão Node 20.
 
 - Clone o projeto para seu VSCODE
   ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/974e64fc-25f4-4340-ac9a-df91fe291fda)
+    
+    - copie o link(https://github.com/Eiglimar/imparFrontEnd.git)
+    ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/b5750bc4-9653-4b06-beb5-620b8f659d88)
+
+    - cole no campo que abrir quando clicar em "Clone Git Repository"
+    - ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/96696047-145f-4872-8fce-c6702b158f97)
+      ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/c6c5535a-cf6a-4fd4-a261-26ae88cc99c1)
+
+
+    
+
 
 
 - Apos o clone do projeto, abra o VSCODE, abra a pasta do projeto
+  ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/07036fad-426b-4c9c-9aad-d01bdd1ba60b)
+
 - Abra o terminal(do VSCODE), e entre na pasta do projeto "car-management"
+  ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/5ca57aa0-c760-47dd-85c1-321e63e3ca1f)
+  ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/3c723cc3-0185-45d7-9c3b-c196a299ff7a)
+
+
 - Dentro da pasta do projeto aonde contém o arquivo package.json, vc irá executar o seguinte comando:
   - npm install
+    ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/0dd3b4b6-9372-4536-ad34-afc568be4c58)
+
 - Após esse comando sua estrutura de pasta deve ser como a abaixo:
+- ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/4d0668bd-35ad-4c18-b474-a1637573ab4e)
+
 - Em seguida você irá no terminal novamente e digitar o comando:
   - npm start
--se tudo deu certo, você irá se deparar com a seguinte tela:
+    ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/0a326636-95e7-4f99-9e84-d193e064ef2f)
+
+- Se tudo deu certo, você irá se deparar com a seguinte tela:
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/5bc150d0-0305-4a5d-9cfe-4532be58165f)
+
+- E no VSCODE O terminal vai estar:
+  ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/d705af38-9ae2-40a3-89ca-320e2657e161)
+
+## Para ver todos os carros cadastrados
+  - Click na lupa no campo de texto sem digitar nada:
+    ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/a2d31677-6d8d-4907-bb71-53ea23537699)
+
+## Fazendo uma busca por nome
+  - Digite o nome do carro cadastrado para buscar:
+  ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/c1829063-64af-44a8-802c-f75573ac49a5)
+
+## Cadastrando um carro
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/f3f69d97-354b-4d97-8003-faa5619a8035)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/2ef4ad57-f314-4979-ac4d-d32e6a3ab836)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/d65b082e-7b09-49f4-947f-43706f024820)
+
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/a41b3e7b-2ce8-4816-b3b1-a7ab7afb005e)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/de38bbc7-ad3f-4c41-a2c6-eda86c51977a)
+
+
+## Editando um carro
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/abc21677-fbeb-4b98-8df6-4dfd80b196f2)
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/07f1b46a-b478-453c-9b79-3db2a2189730)
+
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/dc2645dd-7f08-4820-9447-fe64c2c082fd)
+
+
+
+
+
+
+## Schema basica das Queries e Mutations
+
 
 Para a visualização do Schema para as Queries e Mutations acesse a API com o link abaixo:
 
