@@ -68,6 +68,8 @@ Esse projeto foi desenvolvido com Typescript(React) Puro, Versão Node 20.
 
 
 ## Editando um carro
+![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/1638dc56-3882-4d04-80be-daf1db5b7475)
+
 ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/abc21677-fbeb-4b98-8df6-4dfd80b196f2)
 ![image](https://github.com/Eiglimar/imparFrontEnd/assets/8235182/07f1b46a-b478-453c-9b79-3db2a2189730)
 
